@@ -6,4 +6,9 @@ Decompiled samples of malicious site "ook.gg". These samples are only gathered f
 * Chromium
 ## Credits
 * LuaGunsX (me, of course)
-* 
+* Team RRC (including all members)
+* Discover (cool friend)
+* inhiatusalt (cool friend)
+* qb1t7 (cool friend)
+* voided (cool friend)
+* ed (cool friend)
